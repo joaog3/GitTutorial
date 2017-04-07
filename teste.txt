@@ -5,4 +5,8 @@ one more line
 
 hahah
 
+<<<<<<< HEAD
 teste gaduygasudy
+=======
+teste nkjdshdkas
+>>>>>>> dev-teste
