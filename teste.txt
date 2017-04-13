@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 teste de arquivo
 one more line
 
@@ -9,4 +10,6 @@ hahah
 teste gaduygasudy
 =======
 teste nkjdshdkas
+>>>>>>> dev-teste
+=======
 >>>>>>> dev-teste
